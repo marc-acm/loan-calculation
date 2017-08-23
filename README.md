@@ -1,6 +1,6 @@
 # LOAN CALCULATION
 
-This APP was for Test Drive Development(TDD). Making sure that it will pass and produce the desired result.
+This APP was created for Test Drive Development(TDD). Making sure that it will pass and produce the desired result.
 
 ### Prerequisites
 - Ruby 2.4 
